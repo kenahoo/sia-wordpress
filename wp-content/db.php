@@ -1,0 +1,1 @@
+/home/singersin/www/wp/wp-content/plugins/query-monitor/wp-content/db.php

@@ -1,0 +1,8 @@
+#adminmenu li#menu-posts-encyclopedia div.wp-menu-name {
+  overflow: hidden;
+  padding-right: 8px;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
